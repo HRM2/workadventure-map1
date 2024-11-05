@@ -536,6 +536,26 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/metapixelz.com\/"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggermessage",
+                         "type":"string",
+                         "value":"welcome"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":50
                         }],
                  "rotation":0,
                  "type":"area",
