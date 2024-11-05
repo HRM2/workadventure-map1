@@ -526,6 +526,23 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":50,
+                 "id":20,
+                 "name":"website1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/metapixelz.com\/"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":53,
+                 "x":202.5,
+                 "y":330.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -608,7 +625,7 @@
          "y":0
         }],
  "nextlayerid":65,
- "nextobjectid":20,
+ "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
         {
