@@ -70,7 +70,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"{ \"DEFAULT_BACKGROUND\": \"#77ee77\" }"
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#e74c3c\" }"
                 }, 
                 {
                  "name":"jitsiRoom",
@@ -774,6 +774,44 @@
                  "width":61.3333333333333,
                  "x":612,
                  "y":293.333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":22,
+                 "name":"jitsi",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#e74c3c\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsi room"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onicon"
+                        }, 
+                        {
+                         "name":"jitsiTriggerMessage",
+                         "type":"string",
+                         "value":"welcome to jitsi room"
+                        }, 
+                        {
+                         "name":"jitsiWidth",
+                         "type":"int",
+                         "value":50
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":98.6666666666667,
+                 "y":332
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -855,8 +893,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":70,
- "nextobjectid":22,
+ "nextlayerid":71,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
