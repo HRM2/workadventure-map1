@@ -85,7 +85,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jitsi room"
+                 "value":"jitsi table"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -796,10 +796,9 @@
                  "y":293.333333333333
                 }, 
                 {
-                 "height":0,
-                 "id":22,
+                 "height":57.3333333333333,
+                 "id":23,
                  "name":"jitsi",
-                 "point":true,
                  "properties":[
                         {
                          "name":"jitsiConfig",
@@ -819,7 +818,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"jitsi room"
+                         "value":"jitsi table"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -849,9 +848,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":0,
-                 "x":98.6666666666667,
-                 "y":332
+                 "width":49.3333333333333,
+                 "x":77.3333333333333,
+                 "y":308
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -934,7 +933,7 @@
          "y":0
         }],
  "nextlayerid":71,
- "nextobjectid":23,
+ "nextobjectid":24,
  "orientation":"orthogonal",
  "properties":[
         {
