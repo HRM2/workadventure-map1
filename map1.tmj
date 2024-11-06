@@ -85,7 +85,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"jitsi table"
+                 "value":"jitsiTable"
                 }, 
                 {
                  "name":"jitsiRoomAdminTag",
@@ -818,7 +818,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"jitsi table"
+                         "value":"jitsiTable"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -846,7 +846,7 @@
                          "value":50
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":49.3333333333333,
                  "x":77.3333333333333,
