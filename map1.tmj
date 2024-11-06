@@ -711,7 +711,7 @@
                          "value":50
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":61.3333333333333,
                  "x":612,
