@@ -90,12 +90,12 @@
                 {
                  "name":"jitsiRoomAdminTag",
                  "type":"string",
-                 "value":"\"tag\""
+                 "value":"admin"
                 }, 
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
-                 "value":"onicon"
+                 "value":"onaction"
                 }, 
                 {
                  "name":"jitsiTriggerMessage",
@@ -823,12 +823,12 @@
                         {
                          "name":"jitsiRoomAdminTag",
                          "type":"string",
-                         "value":"\"tag\""
+                         "value":"admin"
                         }, 
                         {
                          "name":"jitsiTrigger",
                          "type":"string",
-                         "value":"onicon"
+                         "value":"onaction"
                         }, 
                         {
                          "name":"jitsiTriggerMessage",
