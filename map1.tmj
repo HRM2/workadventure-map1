@@ -68,14 +68,29 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                }, 
+                {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
                  "value":"{ \"DEFAULT_BACKGROUND\": \"#e74c3c\" }"
                 }, 
                 {
+                 "name":"jitsiNoPrefix",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"jitsi room"
+                }, 
+                {
+                 "name":"jitsiRoomAdminTag",
+                 "type":"string",
+                 "value":"\"tag\""
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -86,6 +101,11 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"welcome to jitsi room"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"meet.jit.si"
                 }, 
                 {
                  "name":"jitsiWidth",
@@ -782,14 +802,29 @@
                  "point":true,
                  "properties":[
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true, \"startWithVideoMuted\": true }"
+                        }, 
+                        {
                          "name":"jitsiInterfaceConfig",
                          "type":"string",
                          "value":"{ \"DEFAULT_BACKGROUND\": \"#e74c3c\" }"
                         }, 
                         {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"jitsi room"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"\"tag\""
                         }, 
                         {
                          "name":"jitsiTrigger",
@@ -800,6 +835,11 @@
                          "name":"jitsiTriggerMessage",
                          "type":"string",
                          "value":"welcome to jitsi room"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
                         }, 
                         {
                          "name":"jitsiWidth",
